@@ -1,3 +1,3 @@
-About
-=====
-pyzeroes is a module containing several classes that can be used to find the zeroes or roots of a function.
+pyzeros
+=======
+pyzeros is a module containing several of the most useful methods for finding the zeros or roots of a function.
